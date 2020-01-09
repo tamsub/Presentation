@@ -1,6 +1,6 @@
 # Presentation
 
-Pleas Fork this repository and push your Presentation slide under your task assige.
+Pleas Fork this repository and push your Presentation slide under your task assiged.
 
 
 # Example : 
